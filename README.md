@@ -28,4 +28,4 @@ This project is a website for a restaurant where users can view the menu, make r
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/restaurant-website.git
+git clone https://github.com/ThariduNiroshan530/Website-for-Resturent.git
